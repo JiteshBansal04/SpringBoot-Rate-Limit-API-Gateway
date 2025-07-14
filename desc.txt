@@ -1,0 +1,3 @@
+1) to run ubuntu -> wsl.exe -d Ubuntu
+
+2) to start redis -> goto wsl from windows icon like cmd -> type: sudo service redis-server start-> type: redis-cli
